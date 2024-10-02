@@ -19,15 +19,15 @@ This repository is about the class content of UC2 at Instituto PROA, which focus
  #### IPO
  ##### Input
 
-    Leia: `prompt`, `readline`
+    Leia: prompt, readline
 
  ##### Process
     
-    Arithmetic operators: `*`, `/` `+`, `-` 
+    Arithmetic operators: *, / +, - 
      
  ##### Output
 
-    Escreval: `console.log`,`innerHTML`
+    Escreval: console.log, innerHTML
 
 #### Control structures
 - SE: `if`
