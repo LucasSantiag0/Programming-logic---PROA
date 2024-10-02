@@ -23,7 +23,7 @@ This repository is about the class content of UC2 at Instituto PROA, which focus
 
  ##### Process
     
-    Arithmetic operators: *, / +, - 
+    Arithmetic operators: *, /, +, - 
      
  ##### Output
 
